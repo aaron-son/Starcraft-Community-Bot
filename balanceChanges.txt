@@ -1,0 +1,52 @@
+Hey everyone,
+
+
+
+
+Since our last update, we’ve been closely monitoring balance stats on the ladder as well as carefully observing the tournament scene. Today’s update will focus on what we’re hearing from the community, and we’ll also share our thoughts on the current match ups. 
+
+
+
+
+In terms of tournaments, a number of our balance patches—like the Raven changes, and the moving of Ventral Sacs to Lair tech—occurred after the qualifier phases or during later rounds of GSL. We feel that some of these changes haven’t seen quite enough high-level play to really judge their ramifications. The upcoming GSL group stages and WCS qualifier results will be valuable for gauging where the current meta is and what sort of further balance changes are necessary.
+
+
+ 
+
+
+**PvZ**
+
+
+In terms of this matchup, players seem to still be trying out new strategies. Stargate remains a popular opener but creating and refining new openers often takes some time, since many players don’t want to risk their tournament series on builds they consider untested. Each race trades off in power at different points of the game while still having access to strong aggressive options should players choose to invest in them.  
+
+
+ 
+
+
+**TvZ**
+
+
+We feel this matchup is in a decent state. Both sides have access to several openers and mid-game strategies that reward good play, though we have been getting feedback about late game Ravens encouraging overly defensive play. While we don’t see this style of play all that frequently, we think that the Raven’s Anti-Armor Missile provides too much defensive power with its ability to trade energy for high burst damage. Win rates, overall, slightly favor Zerg in this matchup so we want to be cautious about changes here. We want to focus more on Terran’s mid-game power that scales into the late game. Increasing options for a race in the mid game can also improve their late game through having greater control over pacing of the game. Mid-game options can also encourage more counterplay, as options in the late game usually trend towards closing out the match rather than providing control over transitioning. Ongoing results from GSL and WCS will better inform our decisions, and we do have to be careful overall, as this matchup seems to be trending in a good direction.
+
+
+
+
+**PvT**
+
+
+While Maru has shown some strong victories recently, a single player’s performance isn’t always indicative of long term balance. The general issue here seems to be that Terran mid-game offensive options aren’t as threatening as they have been in the past. This, in turn, makes the Protoss late game stronger as they can spend more of their resources and time teching up or expanding early on instead of trading units. This isn’t to say that the matchup is unwinnable, but it’s what we’ve gleaned from current trends. Our thinking right now is that we should look into ways of improving Terrans’ offensive options to provide them with greater control over the mid game (such as Viking/Liberator buffs) rather than solely bolster their late-game power (such as Battlecruisers). In line with our reasoning on TvZ mid game detailed above, we currently observe that Terrans feel that their mid game is unreliable. This makes their late game weaker as well, since transitioning to it is difficult. We think that Terran could use more help in TvP rather than TvZ, and since PvZ is developing in a positive direction, we have to be careful with our changes. 
+
+
+ 
+
+
+**Mirror Matchups**
+
+
+We are not seeing any immediately worrying trends in terms of how PvP and ZvZ matchups play overall. In TvT late game, Raven stalls have been noted, but we haven’t seen any at the GSL or WCS Premier level as of yet. 
+
+
+ 
+
+
+As always, thank you for you continued feedback and let us know what you think! We’re curious to know if you believe that the current matchups are playing out differently than what we noted here.
